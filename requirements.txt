@@ -1,0 +1,5 @@
+pandas>=2.0
+requests>=2.31
+# Optional labeled-data model training:
+scikit-learn>=1.3
+joblib>=1.3
